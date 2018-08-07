@@ -2,6 +2,7 @@
 Lab №10 Subject: Modeling of Sofware
 
 Using design pattern "Interpreter", developed own programming language.
+-
 Syntax is close to JavaScript.
 
 Dynamic typing.
@@ -10,3 +11,5 @@ Arrays: indexed and assosiative.
 Functions.
 While, if, else, continue, break statements.
 Regex functions.
+
+

@@ -13,5 +13,3 @@ While, if, else, continue, break statements.
 Regex functions.
 
 Samples of programs in Screens directory
-
-I didn't use git when I was developing this project.
